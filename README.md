@@ -35,9 +35,10 @@ Recursos
 
 Trabalhos
  - [P-corridas2019](https://github.com/ISEC-estudantes/P-corridas2019) feito por [OnikenX](https://github.com/OnikenX) em 2019
-  - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
+ - [P-virus2020](https://github.com/JOSEALM3IDA/Material-ISEC/tree/main/PROG-2020/progtrabalho01) feito por [JOSEALM3IDA](https://github.com/JOSEALM3IDA) em 2020
  - [Covid-Prog](https://github.com/BrunoTeixeira1996/Covid-Prog) feito por [BrunoTeixeira1996](https://github.com/BrunoTeixeira1996) em 2020
  - [Propagacao_Virus](https://github.com/sirNugg3ts/TrabalhoP_Simulacao_Propagacao_Virus) feito por [SirNugg3ts (Diogo Pascoal)](https://github.com/sirNugg3ts) em 2020
+ - [Corridas 2019](https://github.com/Blaldas/Trabalho-Cadeira-de-Programacao) feito por [Blaldas](https://github.com/Blaldas) em 2019
 
 Recursos
 
