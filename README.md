@@ -75,7 +75,7 @@ Recursos
 
 Trabalhos
 - [CR-TP1920](https://github.com/ISEC-estudantes/CR-TP1920) feito por [OnikenX](https://github.com/OnikenX), [Alexandre Costa](https://github.com/alexandrec0sta) e [Vasco Oliveira](https://github.com/360nobuggs) em 2020
--[CR-TP-Redes Neuronais](https://github.com/Blaldas/Inteligencia-Artificial-Para-Dete-o-De-Vogais-Atraves-De-Imagens) feito por [Blaldas](https://github.com/Blaldas) em 2020
+- [CR-TP-Redes Neuronais](https://github.com/Blaldas/Inteligencia-Artificial-Para-Dete-o-De-Vogais-Atraves-De-Imagens) feito por [Blaldas](https://github.com/Blaldas) em 2020
 
 Recursos
 
@@ -98,7 +98,7 @@ Trabalhos
 - [IIA TP1](https://github.com/BrunoTeixeira1996/IIA-Netlogo-TP) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
 - [IIA TP2](https://github.com/BrunoTeixeira1996/IIA-TP2) feito por [Bruno Teixeira](https://github.com/BrunoTeixeira1996) e [Rafael Ribeiro](https://github.com/Tavt-00) em 2020/2021
 - [IIA TP1](https://github.com/fxvnder/IIA_TrabalhoI) feito por [João "FXVNDER" Oliveira](https://github.com/fxvnder) em 2020/2021
--[IIA TP1 Comilões e Limpadores](https://github.com/Blaldas/Simulacao-de-Comiloes-e-Limpadores) feito por [Blaldas](https://github.com/Blaldas) em 2020
+- [IIA TP1 Comilões e Limpadores](https://github.com/Blaldas/Simulacao-de-Comiloes-e-Limpadores) feito por [Blaldas](https://github.com/Blaldas) em 2020
 
 Recursos
 
